@@ -1,0 +1,1 @@
+# CrowdStrike-Falcon-Bulk-Uninstall-Utility
